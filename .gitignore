@@ -1,0 +1,15 @@
+node_modules/
+.restored/
+dist/
+build/
+*.log
+.env
+.env.*
+*.pem
+*.key
+.omc/
+.claude/
+.vscode/
+.idea/
+*.tmp
+claude-code-*.tgz
